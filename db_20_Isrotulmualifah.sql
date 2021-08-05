@@ -38,7 +38,7 @@ CREATE TABLE `tb_siswa` (
 --
 
 INSERT INTO `tb_siswa` (`id_siswa`, `nama`, `hp`) VALUES
-(1, 'isrotulmualifah', 567199);
+(1, 'isrotulmualifah', 140405);
 
 --
 -- Indexes for dumped tables
